@@ -1,7 +1,7 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import React from 'react';
 import './app.css';
-import { BrowserRouter as Router, Route } from "react-router-dom"
+// import { BrowserRouter as Router, Route } from "react-router-dom"
 import Navbar from "../../myreactportfolio/src/components/navbar";
 import Header from "../../myreactportfolio/src/components/header";
 import AboutMe from "../../myreactportfolio/src/components/aboutme";
@@ -14,7 +14,7 @@ import Footer from '../../myreactportfolio/src/components/footer';
 function App() {
   return (
 
-    <Router>
+    
       <div>
         <p>hallo worlds</p>
       <Navbar />
@@ -25,7 +25,7 @@ function App() {
       <Contact />
       <Footer />
       </div>
-    </Router>
+   
 
   );
 }

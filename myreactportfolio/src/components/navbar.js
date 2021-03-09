@@ -1,7 +1,5 @@
 import React from "react";
 import { Link } from 'react-scroll';
-
-//Font Awesome Imports
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBars } from '@fortawesome/free-solid-svg-icons'
 
@@ -24,22 +22,22 @@ const Navbar = () => {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav ml-auto">
             <li className="nav-item active">
-              <Link smooth={true} to="home" offset={-50} className="nav-link" href="#">
+              <Link smooth={true} to="home" offset={-50} className="nav-link" href="/">
                 Home <span className="sr-only">(current)</span>
               </Link>
             </li>
             <li className="nav-item">
-              <Link smooth={true} to="about" offset={-50} className="nav-link" href="#">
+              <Link smooth={true} to="about" offset={-50} className="nav-link" href="/aboutme">
                 About Me
               </Link>
             </li>
             <li className="nav-item">
-              <Link smooth={true} to="portfolio" offset={-50} className="nav-link" href="#">
+              <Link smooth={true} to="portfolio" offset={-50} className="nav-link" href="/portfolio">
                 Portfolio
               </Link>
             </li>
             <li className="nav-item">
-              <Link smooth={true} to="contact" offset={-50} className="nav-link" href="#">
+              <Link smooth={true} to="contact" offset={-50} className="nav-link" href="/contact">
                 Contact
               </Link>
             </li>
