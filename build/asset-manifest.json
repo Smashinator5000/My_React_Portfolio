@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/My_React_Portfolio/static/css/main.48edc92b.chunk.css",
+    "main.js": "/My_React_Portfolio/static/js/main.50b73b74.chunk.js",
+    "main.js.map": "/My_React_Portfolio/static/js/main.50b73b74.chunk.js.map",
+    "runtime-main.js": "/My_React_Portfolio/static/js/runtime-main.4e7eaa02.js",
+    "runtime-main.js.map": "/My_React_Portfolio/static/js/runtime-main.4e7eaa02.js.map",
+    "static/css/2.301e199a.chunk.css": "/My_React_Portfolio/static/css/2.301e199a.chunk.css",
+    "static/js/2.dc70dc38.chunk.js": "/My_React_Portfolio/static/js/2.dc70dc38.chunk.js",
+    "static/js/2.dc70dc38.chunk.js.map": "/My_React_Portfolio/static/js/2.dc70dc38.chunk.js.map",
+    "static/js/3.97a77659.chunk.js": "/My_React_Portfolio/static/js/3.97a77659.chunk.js",
+    "static/js/3.97a77659.chunk.js.map": "/My_React_Portfolio/static/js/3.97a77659.chunk.js.map",
+    "index.html": "/My_React_Portfolio/index.html",
+    "static/css/2.301e199a.chunk.css.map": "/My_React_Portfolio/static/css/2.301e199a.chunk.css.map",
+    "static/css/main.48edc92b.chunk.css.map": "/My_React_Portfolio/static/css/main.48edc92b.chunk.css.map",
+    "static/js/2.dc70dc38.chunk.js.LICENSE.txt": "/My_React_Portfolio/static/js/2.dc70dc38.chunk.js.LICENSE.txt",
+    "static/media/Ash.9d881570.jpg": "/My_React_Portfolio/static/media/Ash.9d881570.jpg",
+    "static/media/AshleysResume.05a1cfe9.pdf": "/My_React_Portfolio/static/media/AshleysResume.05a1cfe9.pdf",
+    "static/media/Eeveelutions.b6944397.jpg": "/My_React_Portfolio/static/media/Eeveelutions.b6944397.jpg",
+    "static/media/HW5.f6475dfb.PNG": "/My_React_Portfolio/static/media/HW5.f6475dfb.PNG",
+    "static/media/MyTeam.419616e9.PNG": "/My_React_Portfolio/static/media/MyTeam.419616e9.PNG",
+    "static/media/SMQG.a7740bcb.PNG": "/My_React_Portfolio/static/media/SMQG.a7740bcb.PNG",
+    "static/media/app.css": "/My_React_Portfolio/static/media/Sailor moon (2).8635cb9c.jpg",
+    "static/media/WASS.dbb7d1a8.PNG": "/My_React_Portfolio/static/media/WASS.dbb7d1a8.PNG",
+    "static/media/match.8d53471d.png": "/My_React_Portfolio/static/media/match.8d53471d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e7eaa02.js",
+    "static/css/2.301e199a.chunk.css",
+    "static/js/2.dc70dc38.chunk.js",
+    "static/css/main.48edc92b.chunk.css",
+    "static/js/main.50b73b74.chunk.js"
+  ]
+}
