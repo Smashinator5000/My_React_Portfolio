@@ -2,13 +2,13 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import React from 'react';
 import './app.css';
 // import { BrowserRouter as Router, Route } from "react-router-dom"
-import Navbar from "../../myreactportfolio/src/components/navbar";
-import Header from "../../myreactportfolio/src/components/header";
-import AboutMe from "../../myreactportfolio/src/components/aboutme";
-import Experience from "../../myreactportfolio/src/components/experience";
-import Projects from '../../myreactportfolio/src/components/projects';
-import Contact from '../../myreactportfolio/src/components/contact';
-import Footer from '../../myreactportfolio/src/components/footer';
+import Navbar from "./components/navbar";
+import Header from "./components/header";
+import AboutMe from "./components/aboutme";
+import Experience from "./components/experience";
+import Projects from './components/projects';
+import Contact from './components/contact';
+import Footer from './components/footer';
 
 
 function App() {
