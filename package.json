@@ -2,6 +2,7 @@
   "name": "myreactportfolio",
   "version": "0.1.0",
   "private": true,
+   "homepage": "https://smashinator5000.github.io/My_React_Portfolio/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.34",
     "@fortawesome/free-solid-svg-icons": "^5.15.2",
@@ -24,10 +25,9 @@
     "testing-library": "0.0.2",
     "web-vitals": "^1.1.0"
   },
-  "homepage": "https://smashinator5000.github.io/My_React_Portfolio/",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
