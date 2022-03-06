@@ -10,7 +10,15 @@ const experience = () => {
         <div className="timeline-block timeline-block-right">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3>2020-Current</h3>
+          <h3>2022-Present</h3>
+            <p>Woz-U Software Development Engineer in Test – Java Certification Course.</p>
+          </div>
+        </div>
+        {/* - */}
+        <div className="timeline-block timeline-block-left">
+          <div className="marker"></div>
+          <div className="timeline-content">
+            <h3>2020-2021</h3>
             <p>University of Denver's Full Stack Web Development Certificate Course.</p>
           </div>
         </div>
