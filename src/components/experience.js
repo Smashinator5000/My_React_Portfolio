@@ -11,7 +11,39 @@ const experience = () => {
           <div className="marker"></div>
           <div className="timeline-content">
           <h3>2022-Present</h3>
+            <p>University of Phoenix, Bachelor of Science in Information Technology</p>
+          </div>
+        </div>
+        {/* - */}
+        <div className="timeline-block timeline-block-left">
+          <div className="marker"></div>
+          <div className="timeline-content">
+          <h3>2022-Present</h3>
             <p>Woz-U Software Development Engineer in Test – Java Certification Course.</p>
+          </div>
+        </div>
+        {/* - */}
+        <div className="timeline-block timeline-block-left">
+          <div className="marker"></div>
+          <div className="timeline-content">
+          <h3>2021-Present</h3>
+            <p>Trilogy Education- Centralized Grader</p>
+          </div>
+        </div>
+        {/* - */}
+        <div className="timeline-block timeline-block-left">
+          <div className="marker"></div>
+          <div className="timeline-content">
+          <h3>2021-Present</h3>
+            <p>Trilogy Education- Tutor</p>
+          </div>
+        </div>
+        {/* - */}
+        <div className="timeline-block timeline-block-left">
+          <div className="marker"></div>
+          <div className="timeline-content">
+          <h3>2021-Present</h3>
+            <p>Trilogy Education- Teachin Assistant</p>
           </div>
         </div>
         {/* - */}
